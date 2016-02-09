@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Py Runner Console</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+    <string name="pubnub_pubkey"></string>
+    <string name="pubnub_subkey"></string>
+    <string name="pubnub_channel">pyrunhpcg</string>
+</resources>
